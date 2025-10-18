@@ -1,4 +1,6 @@
-## Hi there 👋
+![banner](img/banner.png)
+
+## Hi there, I'm Gading Yuwono 👋
 
 <!--
 **gadingyuwono/gadingyuwono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +16,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 Gading is now a [**Software Engineering Student**](https://smkhtone.ddns.net)
+- 🌱 I’m currently learning **HTML, CSS, and JS**
