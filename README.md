@@ -17,5 +17,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Gading is now a [**Software Engineering Student**](https://smkhtone.ddns.net)
+- 🔭 Gading is now a **Software Engineering Student** at [**SMK Hang Tuah 1 Jakarta**](https://smkhtone.ddns.net)
 - 🌱 I’m currently learning **HTML, CSS, and JS**
