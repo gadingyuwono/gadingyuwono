@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 #### Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gadingyuwono/gadingyuwono/output/pacman-contribution-graph-dark.svg">
