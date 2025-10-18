@@ -1,7 +1,7 @@
 ![banner](img/banner.png)
 
-## Hi there, I'm Gading Yuwono 👋
-
+## Hi there, I'm Gading Yuwono 
+Gading is a vocational high school student majoring in Software Engineering, with a vision of becoming a full-stack web developer. He has extensive exploratory, informal experience, particularly in the fields of technology and design.
 <!--
 **gadingyuwono/gadingyuwono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
