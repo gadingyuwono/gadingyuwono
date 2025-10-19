@@ -22,19 +22,9 @@ Here are some ideas to get you started:
 - 🔭 Gading is now a **Software Engineering Student** at [**SMK Hang Tuah 1 Jakarta**](https://smkhtone.ddns.net)
 - 🌱 I’m currently learning **HTML, CSS, and JS**
 
-#### Skills
-
-![My Skills](https://skillicons.dev/icons?i=html) ![My Skills](https://skillicons.dev/icons?i=css) ![My Skills](https://skillicons.dev/icons?i=js)
-
-#### Tools
-
-![My Tools](https://skillicons.dev/icons?i=figma)
-
-#### Social Media
-
-![linkedin.com/in/gading-yuwono](https://skillicons.dev/icons?i=linkedin) ![instagram.com/gading.yuwono](https://skillicons.dev/icons?i=instagram)
-
-#### Stats
+| **Skills** | **Tools** |
+|-------------|-----------|
+|![My Skills](https://skillicons.dev/icons?i=html) ![My Skills](https://skillicons.dev/icons?i=css) ![My Skills](https://skillicons.dev/icons?i=js)|![My Tools](https://skillicons.dev/icons?i=vscode) ![My Tools](https://skillicons.dev/icons?i=figma)|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadingyuwono&layout=compact)
 
@@ -43,3 +33,7 @@ Here are some ideas to get you started:
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gadingyuwono/gadingyuwono/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gadingyuwono/gadingyuwono/output/pacman-contribution-graph.svg">
 </picture>
+
+#### Connect with Me!
+
+![linkedin.com/in/gading-yuwono](https://skillicons.dev/icons?i=linkedin) ![instagram.com/gading.yuwono](https://skillicons.dev/icons?i=instagram)
