@@ -38,6 +38,6 @@ Here are some ideas to get you started:
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gading-yuwono) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/gading.yuwono)
 
->**gading: bone, strength**
+>**_gading: bone, strength_**
 
 #MadeByGading with ❤️
