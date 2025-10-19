@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 | **Skills** | **Tools** |
 |-------------|-----------|
-|![My Skills](https://skillicons.dev/icons?i=html) ![My Skills](https://skillicons.dev/icons?i=css) ![My Skills](https://skillicons.dev/icons?i=js)|![My Tools](https://skillicons.dev/icons?i=vscode) ![My Tools](https://skillicons.dev/icons?i=figma)|
+|[![HTML](https://skillicons.dev/icons?i=html)]() [![CSS](https://skillicons.dev/icons?i=css)]() [![JS](https://skillicons.dev/icons?i=js)]()|[![VSCode](https://skillicons.dev/icons?i=vscode)]() [![Figma](https://skillicons.dev/icons?i=figma)]()|
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadingyuwono&layout=compact)
 
@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 #### Connect with Me!
 
-![linkedin.com/in/gading-yuwono](https://skillicons.dev/icons?i=linkedin) ![instagram.com/gading.yuwono](https://skillicons.dev/icons?i=instagram)
+[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](linkedin.com/in/gading-yuwono) [![Instagram](https://skillicons.dev/icons?i=instagram)](instagram.com/gading.yuwono)
