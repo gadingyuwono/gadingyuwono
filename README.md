@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Gading Yuwono
 
-Gading is a vocational high school student majoring in Software Engineering, with a vision of becoming a Fullstack Web Developer. He has extensive exploratory, informal experience, particularly in the fields of technology and design.
+Gading is a vocational high school student majoring in Software Engineering, with a vision of becoming a Backend Web Developer. He has extensive exploratory, informal experience, particularly in the fields of technology and design.
 
 <!--
 **gadingyuwono/gadingyuwono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
