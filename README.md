@@ -34,6 +34,8 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gadingyuwono/gadingyuwono/output/pacman-contribution-graph.svg">
 </picture>
 
+***
+
 #### Connect with Me!
 
 [![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/gading-yuwono) [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/gading.yuwono)
