@@ -34,7 +34,7 @@ Here are some ideas to get you started:
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/gadingyuwono/gadingyuwono/output/pacman-contribution-graph.svg">
 </picture>
 
-***
+<small>──────────────</small>
 
 #### Connect with Me!
 
