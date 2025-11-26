@@ -2,7 +2,7 @@
 
 ## Hi there, I'm Gading Yuwono
 
-Gading is a vocational high school student majoring in Software Engineering, with a vision of becoming an UX Engineer. He has extensive exploratory, informal experience, particularly in the fields of technology and design.
+I'm Gading, a vocational high school student majoring in Software Engineering, aspiring to become a UX Engineer. I explore technology and design, turning ideas into simple, elegant, and intuitive experiences.
 
 <!--
 **gadingyuwono/gadingyuwono** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,12 +19,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 Gading is now a **Software Engineering Student** at [**SMK Hang Tuah 1 Jakarta**](https://smkhtone.ddns.net)
-- 🌱 I’m currently learning **HTML, CSS, and JS**
+- 🔭 I'm currently a **Software Engineering Student** at [**SMK Hang Tuah 1 Jakarta**](https://smkhtone.ddns.net)
+- 🌱 I'm currently learning **HTML, CSS, JS and its libraries**
 
 | **Skills** | **Tools** |
 |-------------|-----------|
-|[![HTML](https://skillicons.dev/icons?i=html)]() [![CSS](https://skillicons.dev/icons?i=css)]() [![JS](https://skillicons.dev/icons?i=js)]()|[![VSCode](https://skillicons.dev/icons?i=vscode)]() [![Figma](https://skillicons.dev/icons?i=figma)]()|
+|[![HTML](https://skillicons.dev/icons?i=html)]() [![CSS](https://skillicons.dev/icons?i=css)]() [![Tailwind](https://skillicons.dev/icons?i=tailwind)]() [![JS](https://skillicons.dev/icons?i=js)]()|[![VSCode](https://skillicons.dev/icons?i=vscode)]() [![Figma](https://skillicons.dev/icons?i=figma)]()|
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gadingyuwono&layout=compact&theme=dark)]()
 
